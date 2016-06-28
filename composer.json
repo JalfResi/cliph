@@ -1,0 +1,17 @@
+{
+    "name": "ben.davies/cliph",
+    "require": {
+        "symfony/console": "^3.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "Cliph": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ben Davies",
+            "email": "ben.davies@stickyeyes.com"
+        }
+    ]
+}
