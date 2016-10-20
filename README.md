@@ -2,6 +2,10 @@
 
 PHP Command line test program using Box2 to build a phar.
 
+## Inspiration
+
+This project was build using the following tutorial: https://moquet.net/blog/distributing-php-cli/
+
 ## Build
 
 Install Box2 like so:
